@@ -10,7 +10,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Type Defs" Type="Folder"/>
+		<Item Name="Type Defs" Type="Folder">
+			<Item Name="Car Wash Indicators.ctl" Type="VI" URL="../Type Defs/Car Wash Indicators.ctl"/>
+			<Item Name="Car Wash States.ctl" Type="VI" URL="../Type Defs/Car Wash States.ctl"/>
+			<Item Name="Car Wash Timer Enum.ctl" Type="VI" URL="../Type Defs/Car Wash Timer Enum.ctl"/>
+			<Item Name="Cycle Status Cluster.ctl" Type="VI" URL="../Type Defs/Cycle Status Cluster.ctl"/>
+			<Item Name="Purchase Selector.ctl" Type="VI" URL="../Type Defs/Purchase Selector.ctl"/>
+			<Item Name="Simulation Switches.ctl" Type="VI" URL="../Type Defs/Simulation Switches.ctl"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
