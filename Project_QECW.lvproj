@@ -27,6 +27,7 @@
 			<Item Name="Purchase Selector.ctl" Type="VI" URL="../Type Defs/Purchase Selector.ctl"/>
 			<Item Name="Simulation Switches.ctl" Type="VI" URL="../Type Defs/Simulation Switches.ctl"/>
 		</Item>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="Cycle Status Cluster.ctl" Type="VI" URL="../../Shared Files/Shared Type Defs/Cycle Status Cluster.ctl"/>
 			<Item Name="Reset Timer Method.vi" Type="VI" URL="../../Shared Files/Shared Action Engine Files/Reset Timer Method.vi"/>
